@@ -1,4 +1,4 @@
-# Desafio de Ciência de dados do Progrma Lighthouse Indicium 
+# Desafio de Ciência de dados do Programa Lighthouse Indicium 
 
 
 ## Como Executar o Projeto  
